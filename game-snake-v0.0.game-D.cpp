@@ -22,9 +22,7 @@ int cuerpo[200][2];
 int n = 1; 
 int tam = 7;
 int x = 10, y = 12;
-//direccion
 int dir = 3;
-// comida
 int xc = 30, yc = 15;
 int velocidad = 100, h = 1;
 int score = 0;
